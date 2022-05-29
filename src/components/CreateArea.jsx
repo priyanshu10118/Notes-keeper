@@ -44,7 +44,7 @@ function CreateArea(props) {
                         value={note.title}
                         placeholder="Title"
                     />
-                    <hr/>
+                    <hr />
                     </div>
                 )}
                 <textarea
