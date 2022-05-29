@@ -21,7 +21,7 @@ hr {
 }
 
 header {
-  background-color: #5a02bd;
+  background-color: #14213d;
   margin: auto -16px;
   padding: 16px 32px;
   box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.3);
@@ -70,7 +70,7 @@ footer p {
   position: relative;
   float: right;
   margin-right: 10px;
-  color: #5a02bd;
+  color: #fca311;
   border: none;
   width: 36px;
   height: 36px;
@@ -102,7 +102,7 @@ form.create-note button {
   position: absolute;
   right: 18px;
   bottom: -18px;
-  background: #7c2ad9;
+  background: #fca311;
   color: #fff;
   border: none;
   border-radius: 50%;
@@ -114,9 +114,9 @@ form.create-note button {
 }
 
 form.create-note button:hover{ 
-  background: #c5c5c5;
+  background: #14213d;
 }
 
 .note button:hover{
-  color: #c5c5c5;
+  color: #14213d;
 }
