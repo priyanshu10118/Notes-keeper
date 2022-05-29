@@ -114,9 +114,9 @@ form.create-note button {
 }
 
 form.create-note button:hover{ 
-  background: #fff;
+  background: #14213d;
 }
 
 .note button:hover{
-  color: #fff;
+  color: #14213d;
 }
