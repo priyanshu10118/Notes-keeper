@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/sumitpanwar10/Notes-keeper/static/js/main.db98c2dc.js",
-    "index.html": "/sumitpanwar10/Notes-keeper/index.html",
-    "main.db98c2dc.js.map": "/sumitpanwar10/Notes-keeper/static/js/main.db98c2dc.js.map"
+    "main.js": "/Notes-keeper/static/js/main.db98c2dc.js",
+    "index.html": "/Notes-keeper/index.html",
+    "main.db98c2dc.js.map": "/Notes-keeper/static/js/main.db98c2dc.js.map"
   },
   "entrypoints": [
     "static/js/main.db98c2dc.js"
