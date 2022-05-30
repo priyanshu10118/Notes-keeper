@@ -146,11 +146,16 @@ form.create-note textarea {
   font-size: 2.2em;
 }
 form.create-note button {
-  right: 36px;
-  bottom: -36px;
+  right: 3.5em;
+  bottom: -3.5em;
   border-radius: 50%;
-  width: 72px;
-  height: 72px;
+  width: 7em;
+  height: 7em;
+}
+
+form.create-note button svg{
+  height: 2.5em;
+  width: 2.5em;
 }
 
 .note {
@@ -174,24 +179,28 @@ form.create-note button {
 }
 .note button {
   position: relative;
-  float: right;
-  margin: 20px;
-  color: #fca311;
-  border: none;
-  width: 36px;
-  height: 36px;
-  cursor: pointer;
-  outline: none;
-  background-color: none;
+  width: 480px;
+  margin: 30px auto 20px auto;
+  background: #ffffff;
+  padding: 15px;
+  border-radius: 7px;
+  bottom: -3.5em;
+  border-radius: 50%;
+  width: 7em;
+  height: 7em;
 }
+
 
 
 .note button svg {
-  right: 36px;
-  bottom: -36px;
-  border-radius: 50%;
-  width: 50px;
-  height: 50px;
-  
+  height: 2.5em;
+  width: 2.5em; 
 }
+}
+form.create-note button:hover{ 
+  background: #fca311;
+}
+
+.note button:hover{
+  color: #14213d;
 }
